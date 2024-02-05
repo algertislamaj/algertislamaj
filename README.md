@@ -8,7 +8,6 @@ I'm Algert Islamaj, a seasoned DevOps Engineer with a strong background in telec
 - **Infrastructure as Code (IaC):** Terraform, Crossplane
 - **Container Orchestration:** Kubernetes (K8s)
 - **GitOps:** Leveraging Git as a declarative configuration and automation tool
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
 - **Code Quality Analysis:** SonarQube
 - **Service Mesh:** Crossplane, Helm
 - **Version Control:** Git
@@ -16,7 +15,7 @@ I'm Algert Islamaj, a seasoned DevOps Engineer with a strong background in telec
 
 #### Current Focus:
 
-- 🔭 Currently working on creating a full IDP with Backstage, Kubernetes, Crossplane and ArgoCD.
+- 🔭 Currently working on creating a full IDP with Backstage, Kubernetes, Crossplane, and ArgoCD.
 - 🌱 Exploring new advancements in Kubernetes and cloud-native technologies.
 - 👯 Open to collaboration on projects related to DevOps, telecommunications, and RAN.
 
@@ -26,7 +25,7 @@ I'm Algert Islamaj, a seasoned DevOps Engineer with a strong background in telec
 
 #### Fun Fact:
 
-- ⚡ Fun Fact: [Add something interesting or unique about yourself.]
+- ⚡ Fun Fact: I'm curious about everything!
 
 Feel free to explore my repositories to see some of my projects and contributions!
 
