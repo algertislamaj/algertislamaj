@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Algert Islamaj, a seasoned DevOps Engineer with a strong background in telecommunications, particularly in Radio Access Network (RAN) technologies.
+I'm Algert Islamaj, a DevOps Engineer with a strong background in telecommunications, particularly in Radio Access Network (RAN) technologies.
 
 #### Skills:
 
