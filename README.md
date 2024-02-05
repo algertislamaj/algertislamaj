@@ -7,6 +7,7 @@ I'm Algert Islamaj, a DevOps Engineer with a strong background in telecommunicat
 - **Programming Languages:** Python, Java (Spring Boot), Bash, PowerShell
 - **Infrastructure as Code (IaC):** Terraform, Crossplane
 - **Container Orchestration:** Kubernetes (K8s)
+- **Containerization:** Docker
 - **GitOps:** Leveraging Git as a declarative configuration and automation tool
 - **Code Quality Analysis:** SonarQube
 - **Service Mesh:** Crossplane, Helm
